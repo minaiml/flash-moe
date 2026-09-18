@@ -8,7 +8,8 @@
   "upstream_license": null,
   "upstream_license_name": null,
   "role": "laptop engine — MoE expert streaming off SSD (the flagship proof)",
-  "note": "No licence is declared upstream, so the work is all rights reserved by its author. This fork exists under GitHub's Terms of Service, which permit forking within GitHub. Nothing here is redistributed, repackaged or released as a binary outside GitHub unless and until upstream declares a licence.",
+  "note": "No licence is declared upstream, so the work is all rights reserved by its author. This fork exists under GitHub's Terms of Service, which permit forking within GitHub. Nothing here is redistributed, repackaged or released as a binary outside GitHub unless and until upstream declares a licence. Upstream has been asked to declare a licence: https://github.com/danveloper/flash-moe/issues/19#issuecomment-5735789141",
   "estate_license": "not applicable — no estate code added to this fork",
-  "policy": "https://github.com/minaiml"
+  "policy": "https://github.com/minaiml",
+  "licence_request": "https://github.com/danveloper/flash-moe/issues/19#issuecomment-5735789141"
 }
