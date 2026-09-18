@@ -1,0 +1,14 @@
+{
+  "fork": "minaiml/flash-moe",
+  "source": "danveloper/flash-moe",
+  "source_url": "https://github.com/danveloper/flash-moe",
+  "commit": "3601d41882a346d85041f7955c66429d248e8cd9",
+  "branch": "main",
+  "fetched": "2026-09-18",
+  "upstream_license": null,
+  "upstream_license_name": null,
+  "role": "laptop engine — MoE expert streaming off SSD (the flagship proof)",
+  "note": "No licence is declared upstream, so the work is all rights reserved by its author. This fork exists under GitHub's Terms of Service, which permit forking within GitHub. Nothing here is redistributed, repackaged or released as a binary outside GitHub unless and until upstream declares a licence. We have asked upstream to declare one.",
+  "estate_license": "not applicable — no estate code added to this fork",
+  "policy": "https://github.com/minaiml"
+}
